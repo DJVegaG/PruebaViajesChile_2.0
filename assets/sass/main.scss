@@ -1,0 +1,20 @@
+// Import de Bootstrap instalado con npm
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+
+// Import de las base
+@import "base/base";
+
+// Import de los componentes
+@import "components/nav";
+@import "components/cards";
+
+// Import de los layouts
+@import "layout/presentacion";
+@import "layout/testimonios";
+@import "layout/footer";
+
+// Import de las paginas
+
+// Import de los temas
+
+// Import de los vendors

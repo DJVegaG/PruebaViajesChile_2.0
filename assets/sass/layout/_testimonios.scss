@@ -1,0 +1,24 @@
+.testimonios{
+    color: #CAC1B0;
+    &__titulo{
+        color: white;
+    }
+    &__contenido{
+        padding: 10px;
+    }
+    &__texto{
+        color: #CAC1B0;
+        font-weight: 300;
+        font-style: italic;
+        font-size: 25px;
+    }
+    &__img{
+        border-radius: 50%;
+        border: 2px solid #CAC1B0;
+        display: inline-block;
+    }
+    &__nombre{
+        margin-top: 20px;
+        font-size: 20px;
+    }
+}
